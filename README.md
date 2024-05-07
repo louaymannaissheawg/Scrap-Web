@@ -1,0 +1,2 @@
+Selenium Web Scraping
+This project focuses on web scraping using Selenium, a powerful tool for automating web browser interactions. It includes scripts to scrape data from different websites, demonstrating various methods of locating elements on web pages and interacting with them.
